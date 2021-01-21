@@ -2,9 +2,10 @@
 
 This repo consists of my CS541-Deep Learning Assignments
 
-##Datasets:
+## Datasets:
 
 Assignment 1, 2:
+
  https://s3.amazonaws.com/jrwprojects/age_regression_Xtr.npy
  https://s3.amazonaws.com/jrwprojects/age_regression_ytr.npy
  https://s3.amazonaws.com/jrwprojects/age_regression_Xte.npy
