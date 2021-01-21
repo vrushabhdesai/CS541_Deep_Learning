@@ -13,6 +13,7 @@ Assignment 1, 2:
  
  
  Assignment 3, 4, 5, 6:
+ 
  https://s3.amazonaws.com/jrwprojects/mnist_train_images.npy
  https://s3.amazonaws.com/jrwprojects/mnist_train_labels.npy
  https://s3.amazonaws.com/jrwprojects/mnist_validation_images.npy
